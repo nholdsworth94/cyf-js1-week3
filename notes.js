@@ -88,7 +88,7 @@ nums.forEach(x => console.log(x));
 nums.forEach((x, i) => console.log(`Index: ${i}, Element: ${x}`));
 nums.forEach(log);
 
-EXERCISE.forEach()
+// EXERCISE.forEach()
 function getAge(birthYear) {
     // return age = new Date().getFullYear() - birthYear;
     return 2021 - birthYear;
